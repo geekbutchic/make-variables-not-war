@@ -1,11 +1,27 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
+let myFirstName = 'Sonny';
 
+let myLastName = 'Valenzuela';
 
+let myBestFriend = 'Tom Distefano'
 
+let mySentence = myBestFriend + myFirstName + myLastName;
 
+let myFavoriteNum = 13;
 
+let myMentalAge = 32;
+
+let myHeight = 71.5;
+
+let myFavoriteYear = 2018;
+
+let mySum = 3 + 1918 + 24 + 1;
+
+let myProduct = 232 * 43 / 2 + 4;
+
+let myHeightAndAge = myMentalAge + myHeight;
 
 
 /*********************************************************************************************************************
